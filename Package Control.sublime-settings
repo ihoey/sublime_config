@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSS Comments",
+		"CSS Format",
+		"CSS3",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emoji",
+		"Emoji Code",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"JsFormat",
+		"Keymaps",
+		"LESS",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Status Bar Time",
+		"Swig",
+		"Table Editor",
+		"Terminal",
+		"Trimmer",
+		"Vue Syntax Highlight"
+	]
+}
